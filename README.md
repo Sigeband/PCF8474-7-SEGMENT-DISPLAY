@@ -18,9 +18,9 @@ PCF8574:
 - PCF8574 pin -> Arduino Pin
 - 1, 2, 3 -> GND
 - 8 -> GND
-- 14, 15 -> SDA, SCL; they are pulled up via 4.7k resistors connected to 5v"
+- 14, 15 -> SDA, SCL; They are pulled up via 4.7k-ohm resistors connected to 5v.
 - 16 -> 5v
-- All the LEDs' positive terminals are connected to 5v, with a single 330-ohm resistor in between.
+- All the LED positive terminals are connected to 5v, with a single 330-ohm resistor in between.
 
 
 
