@@ -23,12 +23,9 @@ PCF8574:
 - All the LEDs' positive terminals are connected to 5v, with a single 330-ohm resistor in between.
 
 
- 
-
 
 The current example code just counts seconds to 9 and then resets to 0 again to demonstrate the basics.
 Currently, the code defines the functions with the pins assigned to the different segments and switches them to low if the LED should turn on.
 
-
-
-<img src="https://user-images.githubusercontent.com/114338337/224480518-e5520e62-bd6b-456c-b602-249eb714b3e2.jpg" width="300">
+The library used is 'pcf8574' by xreef:
+- https://github.com/xreef/PCF8574_library
