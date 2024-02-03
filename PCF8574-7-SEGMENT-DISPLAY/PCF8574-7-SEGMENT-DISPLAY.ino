@@ -13,7 +13,6 @@ void setup() {
   PCF8574.pinMode(P1, OUTPUT);
   PCF8574.pinMode(P2, OUTPUT);
   PCF8574.pinMode(P3, OUTPUT);
-  PCF8574.pinMode(P4, OUTPUT);
   PCF8574.pinMode(P5, OUTPUT);
   PCF8574.pinMode(P6, OUTPUT);
   PCF8574.pinMode(P7, OUTPUT);   //define pin modes 
