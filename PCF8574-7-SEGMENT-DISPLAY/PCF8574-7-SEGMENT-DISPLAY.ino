@@ -1,3 +1,8 @@
+/*
+The current example code just counts seconds to 9 and then resets to 0 again to demonstrate the basics.
+Currently, the code defines the functions with the pins assigned to the different segments and switches them to low if the LED should turn on.
+ */
+
 #include "Arduino.h" //including librarys
 #include "PCF8574.h"
 
