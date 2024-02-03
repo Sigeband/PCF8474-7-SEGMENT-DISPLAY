@@ -2,10 +2,12 @@
 
 DIY 7-Segment display with a PCF8574 working via I2C with the PFC8574 library.
 
+<img src="https://user-images.githubusercontent.com/114338337/224480518-e5520e62-bd6b-456c-b602-249eb714b3e2.jpg" width="300">
+
  ## Pinout:
  
 
-This picture shows which segments' negative terminals are connected to which pins of the PCF8574.
+This picture shows which segments negative terminals are connected to which pins of the PCF8574.
 <img src="https://github.com/Sigeband/PCF8474-7-SEGMENT-DISPLAY/assets/114338337/df9d7c05-8d5f-45a6-85fb-0418817ccd6d" width="300">
 
 
@@ -29,5 +31,4 @@ Currently, the code defines the functions with the pins assigned to the differen
 
 
 
-
-![20230310_174715](https://user-images.githubusercontent.com/114338337/224480518-e5520e62-bd6b-456c-b602-249eb714b3e2.jpg)
+<img src="https://user-images.githubusercontent.com/114338337/224480518-e5520e62-bd6b-456c-b602-249eb714b3e2.jpg" width="300">
