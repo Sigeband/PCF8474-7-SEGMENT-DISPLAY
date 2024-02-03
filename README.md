@@ -1,6 +1,6 @@
 # PCF8474-7-SEGMENT-DISPLAY
 
-DIY 7-Segment display with an pcf8574 working via i2c with the pcf8574 library.
+DIY 7-Segment display with a PCF8574 working via I2C with the PFC8574 library.
 
 ## This mini-project is still work in progress!
 Pinout will follow soon, together with a list of which pins to assign to what segment.
